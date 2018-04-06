@@ -1,0 +1,574 @@
+2018-Apr-02 19:41:40.106760 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-02 19:42:21.537022 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-02 19:42:21.567922 INFO [simplewallet] Generated new wallet: intuvXip4XKHHhzHFwiwE4DYy2ynscfdvGrgbXbARpLCcbwDdRXryk6YqY2aJQhkWKcmSD6V8DURcW4kN1u2ViTuZuGBFifLLJd
+2018-Apr-02 19:42:21.567922 INFO [simplewallet] view key: b3fc1691e92702ac9f29b2d1545945dd0af62d0e14a11b9ad32888f8987a390a
+2018-Apr-02 19:42:21.570941 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-02 19:43:20.612538 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-02 19:43:43.241209 INFO [simplewallet] Wallet closed
+2018-Apr-02 20:08:55.163002 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-02 20:09:43.466148 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-02 20:09:54.246279 ERROR [simplewallet] Error: wallet.bin.wallet already exists
+2018-Apr-02 20:09:54.246418 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-02 20:09:59.924014 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-02 22:02:05.167947 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-02 22:02:05.205368 INFO [simplewallet] Generated new wallet: intuvWMMPy6iDLaaGbBXveNgM7ctAe1RrEKUnpEFunY2QoXc9o2AvCaTzsBmzdkR3gQXtN4e7xF5CbN3Y9LfGFzqLABeu6fhrV3
+2018-Apr-02 22:02:05.205368 INFO [simplewallet] view key: bcbec35b24fb127d3bc8692e6a26ab53ddc898436ed252f7c2adc9f51bbfa003
+2018-Apr-02 22:02:05.205760 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-03 00:13:06.606190 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 00:13:34.517632 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 00:13:34.548862 INFO [simplewallet] Generated new wallet: intuvVhvEr8Hwgkt2sTsy7RW13gFsV4ALM8tercYoqRJTU4MEYZNrcSdauPMD6rTh8cNEjfKULBCnPU7WaXgKNbWHDiRL9Lc59b
+2018-Apr-03 00:13:34.548862 INFO [simplewallet] view key: 201825b9b880df6d65d1170a7ddea1de4cfc11dfd80c4642bdb7d44a0c28eb00
+2018-Apr-03 00:13:34.549035 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-03 00:34:24.721449 INFO [simplewallet] Wallet connected to daemon.
+2018-Apr-03 00:44:29.825327 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 00:48:24.733774 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 14:33:12.543567 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:02:28.354910 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:02:28.396923 INFO [simplewallet] Generated new wallet: intuvUJHwVbWtUCSPJ5JvFDJzdWvdWBptQEg1JYaLmk7dHcKWpRMn5eB3ZgzBppSCogRJDwbAdPQFbE9fAzbR1wKShGC9U4iCZ3
+2018-Apr-03 15:02:28.396923 INFO [simplewallet] view key: cdb225399a4e4dbe89ae7cc7525ab5a08ab23710d43abac783aed82daa9a8108
+2018-Apr-03 15:02:28.397081 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-03 15:06:38.715312 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:06:38.715883 ERROR [simplewallet] Error: intuwallet.bin.wallet already exists
+2018-Apr-03 15:06:38.715958 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-03 15:07:22.282657 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:07:22.321073 INFO [simplewallet] Generated new wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 15:07:22.321073 INFO [simplewallet] view key: 75d441b8cac0c20fb148c59dbe86912c4da3306843d07991ec6676279429d908
+2018-Apr-03 15:07:22.321251 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-03 15:08:08.554597 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-03 15:09:06.779313 INFO [simplewallet] Wallet closed
+2018-Apr-03 15:09:36.377396 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:09:43.128297 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-03 15:09:51.702410 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:11:02.943582 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-03 15:11:05.951295 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 15:11:05.952070 INFO [simplewallet] Loading wallet...
+2018-Apr-03 15:11:05.996054 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 15:11:05.996270 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 15:11:16.623995 INFO [simplewallet] intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 15:11:22.733666 INFO [simplewallet] available balance: 0.000000, locked amount: 0.000000
+2018-Apr-03 15:11:29.632056 INFO [simplewallet] 0
+2018-Apr-03 15:11:48.521873 INFO [simplewallet] Reset completed successfully.
+2018-Apr-03 15:12:33.192660 INFO [simplewallet] Mining started in daemon
+2018-Apr-03 15:12:35.984560 INFO [simplewallet] Height 1, transaction 85d77048f6eb7c3b72a73038d29e635f5dec2e670f8c83ec8687e06747b335b5, received 50201467440.000000
+2018-Apr-03 15:12:35.984714 INFO [simplewallet] Height 2, transaction 9c7d8e21f8f88b6b6bb950af75e0146e0652ca070e891e42985c1e1cc84c1a19, received 0.010000
+2018-Apr-03 15:12:40.979731 INFO [simplewallet] Height 3, transaction 0d1db7590eab30048eb56183a6d71488afb5682dca3b2e3add60f04890665797, received 0.010000
+2018-Apr-03 15:13:24.449641 INFO [simplewallet] 3
+2018-Apr-03 15:13:52.646262 ERROR [simplewallet] Error: mining has NOT been started: Failed, mining not started
+2018-Apr-03 15:14:09.979511 INFO [simplewallet] Mining stopped in daemon
+2018-Apr-03 15:14:29.760905 INFO [simplewallet] Mining started in daemon
+2018-Apr-03 15:28:53.627261 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:05:23.985323 INFO [simplewallet] Wallet connected to daemon.
+2018-Apr-03 16:08:39.025735 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:09:04.031449 INFO [simplewallet] Wallet connected to daemon.
+2018-Apr-03 16:10:31.258101 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 16:10:35.686297 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-03 16:10:52.052922 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 16:10:55.076214 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-03 16:15:04.101535 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:15:29.106105 INFO [simplewallet] Wallet connected to daemon.
+2018-Apr-03 16:25:34.251648 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:26:49.020220 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 16:26:49.021204 INFO [simplewallet] Loading wallet...
+2018-Apr-03 16:26:49.025653 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:26:49.058348 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 16:26:49.058438 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 16:26:53.819849 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-03 16:26:59.270747 INFO [simplewallet] available balance: 0.000000, locked amount: 0.000000
+2018-Apr-03 16:27:07.561652 INFO [simplewallet] intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 16:28:12.520527 ERROR [simplewallet] Error: invalid arguments. Please use start_mining [<number_of_threads>], <number_of_threads> should be from 1 to 2
+2018-Apr-03 16:28:42.995685 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:29:07.129359 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 16:29:18.394097 INFO [simplewallet] Wallet closed
+2018-Apr-03 16:59:56.967711 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 16:59:56.971920 INFO [simplewallet] Loading wallet...
+2018-Apr-03 16:59:57.003996 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 16:59:57.004135 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 16:59:57.059315 INFO [simplewallet] Height 1, transaction 85d77048f6eb7c3b72a73038d29e635f5dec2e670f8c83ec8687e06747b335b5, received 50201467440.000000
+2018-Apr-03 16:59:57.059453 INFO [simplewallet] Height 2, transaction 9c7d8e21f8f88b6b6bb950af75e0146e0652ca070e891e42985c1e1cc84c1a19, received 0.010000
+2018-Apr-03 16:59:57.059510 INFO [simplewallet] Height 3, transaction 0d1db7590eab30048eb56183a6d71488afb5682dca3b2e3add60f04890665797, received 0.010000
+2018-Apr-03 16:59:57.059557 INFO [simplewallet] Height 4, transaction 9f6034442ebeb071baab6bc5b4408b75961de38d6d62b1d8e77f4d9c04ee108f, received 0.010000
+2018-Apr-03 16:59:57.059603 INFO [simplewallet] Height 5, transaction 86069c1f067c66b7bf3890783594bb7a62b530bd7049eec467105df16b779b62, received 0.010000
+2018-Apr-03 16:59:57.059659 INFO [simplewallet] Height 6, transaction 2d17198ad9a440dcba70c89579fd51f4ca5355c35f1c15843f73c996082baeb9, received 0.010000
+2018-Apr-03 16:59:57.059704 INFO [simplewallet] Height 7, transaction 93f73962f28f2d26582be2f800aca33e2a576217a09b29a625d9e38828ce57a6, received 0.010000
+2018-Apr-03 16:59:57.059748 INFO [simplewallet] Height 8, transaction 08b1ff533fd736f322505d3a122d8c258e08bc423a9134155b6a92393f3b6b48, received 0.010000
+2018-Apr-03 16:59:57.059801 INFO [simplewallet] Height 9, transaction 23bbda2e0dbd55d3412d0fa2025009ec329b17bac02abb53035b87560df01549, received 0.010000
+2018-Apr-03 16:59:57.059885 INFO [simplewallet] Height 35, transaction a6e6462891825f80b2f521f3d419da02629e1c5b7ce1cc818e95aa46339c6203, received 0.010000
+2018-Apr-03 16:59:57.059934 INFO [simplewallet] Height 36, transaction bbedc953b253804042e36c66a22c8003795754f2d9a82c7e83f2df5ae55fb5c0, received 0.010000
+2018-Apr-03 16:59:57.059980 INFO [simplewallet] Height 37, transaction 413841a39e98d6c8242ab91eb4bc84feab2b2ad1ae9443417e74ca588a0acef9, received 0.010000
+2018-Apr-03 16:59:57.060031 INFO [simplewallet] Height 38, transaction 9d33c82bf6a5ed977c6969eb8052e4ac7ecc626d90b536634481f71330e70237, received 0.010000
+2018-Apr-03 16:59:57.060079 INFO [simplewallet] Height 39, transaction be349997cbe3fa592f1c353075d68cdeebbdd24472879c70e41e6de4084edd67, received 0.010000
+2018-Apr-03 16:59:57.060156 INFO [simplewallet] Height 40, transaction 14a349ddd2cedad1283a6fbc1dd2b75082087b62e5738e03b3fa38222569503d, received 0.010000
+2018-Apr-03 16:59:57.060215 INFO [simplewallet] Height 41, transaction 7d7aea8d6a08b0fa2333334499574632a9186fa27c5c9c8c5a7221750eb270ae, received 0.010000
+2018-Apr-03 16:59:57.060267 INFO [simplewallet] Height 42, transaction 3ccbda5fc3d53c326f6978be8a1e9ee200de94f5eb61c57f3b880f83077e48f8, received 0.010000
+2018-Apr-03 16:59:57.060364 INFO [simplewallet] Height 43, transaction 3c891c8e8dc720352eb2aab4bb89a46df0d6da741e5efe317f68a4536ba5723f, received 0.010000
+2018-Apr-03 16:59:57.060439 INFO [simplewallet] Height 44, transaction bd395cb283567dfbecac49f3f332cdb0b6412ab7f591cf6ad40830075c9aac9a, received 0.010000
+2018-Apr-03 16:59:57.060489 INFO [simplewallet] Height 45, transaction 3d44bcdd84a0e1e1a07f28b22c2216a5978a99a7da8fd22bd07c52bef2b8beaa, received 0.010000
+2018-Apr-03 16:59:57.060534 INFO [simplewallet] Height 46, transaction b9f50395c22f84d44668848d1d172da7c6fa00d181ed02d67d15bce92b8eaf84, received 0.010000
+2018-Apr-03 16:59:57.060606 INFO [simplewallet] Height 47, transaction 383826225e2768422f5dd7222beed656e3e2c0b5c9403c1ed745121b677a1f4d, received 0.010000
+2018-Apr-03 16:59:57.060670 INFO [simplewallet] Height 48, transaction 25925d70446bea539427c1ffdeeddf101d0fbe6be0acfee5fe85ddca42da3ef2, received 0.010000
+2018-Apr-03 16:59:57.060730 INFO [simplewallet] Height 49, transaction d549ecff6f2242d71b6bcbf0ff0ba503e82966be7dbf08f88fde84ebcb418a40, received 0.010000
+2018-Apr-03 17:00:16.887596 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-03 17:00:22.749553 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.230000
+2018-Apr-03 17:24:43.277434 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 17:24:43.278253 INFO [simplewallet] Loading wallet...
+2018-Apr-03 17:24:43.311008 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 17:24:43.311125 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 17:24:43.366989 INFO [simplewallet] Height 1, transaction 85d77048f6eb7c3b72a73038d29e635f5dec2e670f8c83ec8687e06747b335b5, received 50201467440.000000
+2018-Apr-03 17:24:43.367222 INFO [simplewallet] Height 2, transaction 9c7d8e21f8f88b6b6bb950af75e0146e0652ca070e891e42985c1e1cc84c1a19, received 0.010000
+2018-Apr-03 17:24:43.367308 INFO [simplewallet] Height 3, transaction 0d1db7590eab30048eb56183a6d71488afb5682dca3b2e3add60f04890665797, received 0.010000
+2018-Apr-03 17:24:43.367370 INFO [simplewallet] Height 4, transaction 9f6034442ebeb071baab6bc5b4408b75961de38d6d62b1d8e77f4d9c04ee108f, received 0.010000
+2018-Apr-03 17:24:43.367472 INFO [simplewallet] Height 5, transaction 86069c1f067c66b7bf3890783594bb7a62b530bd7049eec467105df16b779b62, received 0.010000
+2018-Apr-03 17:24:43.367589 INFO [simplewallet] Height 6, transaction 2d17198ad9a440dcba70c89579fd51f4ca5355c35f1c15843f73c996082baeb9, received 0.010000
+2018-Apr-03 17:24:43.367654 INFO [simplewallet] Height 7, transaction 93f73962f28f2d26582be2f800aca33e2a576217a09b29a625d9e38828ce57a6, received 0.010000
+2018-Apr-03 17:24:43.367710 INFO [simplewallet] Height 8, transaction 08b1ff533fd736f322505d3a122d8c258e08bc423a9134155b6a92393f3b6b48, received 0.010000
+2018-Apr-03 17:24:43.367756 INFO [simplewallet] Height 9, transaction 23bbda2e0dbd55d3412d0fa2025009ec329b17bac02abb53035b87560df01549, received 0.010000
+2018-Apr-03 17:24:43.367861 INFO [simplewallet] Height 35, transaction a6e6462891825f80b2f521f3d419da02629e1c5b7ce1cc818e95aa46339c6203, received 0.010000
+2018-Apr-03 17:24:43.367910 INFO [simplewallet] Height 36, transaction bbedc953b253804042e36c66a22c8003795754f2d9a82c7e83f2df5ae55fb5c0, received 0.010000
+2018-Apr-03 17:24:43.367956 INFO [simplewallet] Height 37, transaction 413841a39e98d6c8242ab91eb4bc84feab2b2ad1ae9443417e74ca588a0acef9, received 0.010000
+2018-Apr-03 17:24:43.368018 INFO [simplewallet] Height 38, transaction 9d33c82bf6a5ed977c6969eb8052e4ac7ecc626d90b536634481f71330e70237, received 0.010000
+2018-Apr-03 17:24:43.368066 INFO [simplewallet] Height 39, transaction be349997cbe3fa592f1c353075d68cdeebbdd24472879c70e41e6de4084edd67, received 0.010000
+2018-Apr-03 17:24:43.368120 INFO [simplewallet] Height 40, transaction 14a349ddd2cedad1283a6fbc1dd2b75082087b62e5738e03b3fa38222569503d, received 0.010000
+2018-Apr-03 17:24:43.368170 INFO [simplewallet] Height 41, transaction 7d7aea8d6a08b0fa2333334499574632a9186fa27c5c9c8c5a7221750eb270ae, received 0.010000
+2018-Apr-03 17:24:43.368215 INFO [simplewallet] Height 42, transaction 3ccbda5fc3d53c326f6978be8a1e9ee200de94f5eb61c57f3b880f83077e48f8, received 0.010000
+2018-Apr-03 17:24:43.368263 INFO [simplewallet] Height 43, transaction 3c891c8e8dc720352eb2aab4bb89a46df0d6da741e5efe317f68a4536ba5723f, received 0.010000
+2018-Apr-03 17:24:43.368308 INFO [simplewallet] Height 44, transaction bd395cb283567dfbecac49f3f332cdb0b6412ab7f591cf6ad40830075c9aac9a, received 0.010000
+2018-Apr-03 17:24:43.368351 INFO [simplewallet] Height 45, transaction 3d44bcdd84a0e1e1a07f28b22c2216a5978a99a7da8fd22bd07c52bef2b8beaa, received 0.010000
+2018-Apr-03 17:24:43.368394 INFO [simplewallet] Height 46, transaction b9f50395c22f84d44668848d1d172da7c6fa00d181ed02d67d15bce92b8eaf84, received 0.010000
+2018-Apr-03 17:24:43.368438 INFO [simplewallet] Height 47, transaction 383826225e2768422f5dd7222beed656e3e2c0b5c9403c1ed745121b677a1f4d, received 0.010000
+2018-Apr-03 17:24:43.368481 INFO [simplewallet] Height 48, transaction 25925d70446bea539427c1ffdeeddf101d0fbe6be0acfee5fe85ddca42da3ef2, received 0.010000
+2018-Apr-03 17:24:43.368527 INFO [simplewallet] Height 49, transaction d549ecff6f2242d71b6bcbf0ff0ba503e82966be7dbf08f88fde84ebcb418a40, received 0.010000
+2018-Apr-03 17:24:55.723820 ERROR [simplewallet] Error: invalid arguments. Please use start_mining [<number_of_threads>], <number_of_threads> should be from 1 to 2
+2018-Apr-03 17:25:22.780333 INFO [simplewallet] Mining started in daemon
+2018-Apr-03 17:25:35.597369 ERROR [simplewallet] Error: invalid arguments. Please use start_mining [<number_of_threads>], <number_of_threads> should be from 1 to 2
+2018-Apr-03 17:25:47.501802 ERROR [simplewallet] Error: mining has NOT been started: Failed, mining not started
+2018-Apr-03 17:25:52.239340 INFO [simplewallet] Height 50, transaction 8624f6f9b08ff724a4c0ac108d7e2bac03b3dfe750530297624d612e914b2b72, received 0.010000
+2018-Apr-03 17:25:52.397875 ERROR [simplewallet] Error: mining has NOT been started: Failed, mining not started
+2018-Apr-03 17:25:53.293636 INFO [simplewallet] Height 50, transaction 8624f6f9b08ff724a4c0ac108d7e2bac03b3dfe750530297624d612e914b2b72, received 0.010000
+2018-Apr-03 17:27:43.306927 INFO [simplewallet] Height 51, transaction 45ee113a18e777e2d30d4d2409f4965eeecb0e8cd006cc61426f9e09dca81d25, received 0.010000
+2018-Apr-03 17:27:47.253281 INFO [simplewallet] Height 51, transaction 45ee113a18e777e2d30d4d2409f4965eeecb0e8cd006cc61426f9e09dca81d25, received 0.010000
+2018-Apr-03 17:29:12.262689 INFO [simplewallet] Height 52, transaction 2cf2259f0c3257220e40f703168b87c721ad9f9ff9795f3d18e97bad1199a13c, received 0.010000
+2018-Apr-03 17:29:13.316622 INFO [simplewallet] Height 52, transaction 2cf2259f0c3257220e40f703168b87c721ad9f9ff9795f3d18e97bad1199a13c, received 0.010000
+2018-Apr-03 17:29:17.262549 INFO [simplewallet] Height 53, transaction 6f0ed8318c757008cbc6255b37a355ec64bd7818e5e8ebdbd0a4c26e6d755c86, received 0.010000
+2018-Apr-03 17:29:18.317339 INFO [simplewallet] Height 53, transaction 6f0ed8318c757008cbc6255b37a355ec64bd7818e5e8ebdbd0a4c26e6d755c86, received 0.010000
+2018-Apr-03 17:29:23.317794 INFO [simplewallet] Height 54, transaction c4e94f094db017e09af15ac7ed6275d2cda0576e60ea690f8c185cb493d3c9ba, received 0.010000
+2018-Apr-03 17:29:27.263770 INFO [simplewallet] Height 54, transaction c4e94f094db017e09af15ac7ed6275d2cda0576e60ea690f8c185cb493d3c9ba, received 0.010000
+2018-Apr-03 17:31:07.277246 INFO [simplewallet] Height 55, transaction cb19ba207ccb6379e45df0f0870a3fbc29cc9559e69b73040ccb458ee8914d67, received 0.010000
+2018-Apr-03 17:31:08.329842 INFO [simplewallet] Height 55, transaction cb19ba207ccb6379e45df0f0870a3fbc29cc9559e69b73040ccb458ee8914d67, received 0.010000
+2018-Apr-03 17:31:18.332582 INFO [simplewallet] Height 56, transaction 42a7f593c5aee63e5350f3f2146c0fd29aecb09b2b824e9a7d5052b153e7c978, received 0.010000
+2018-Apr-03 17:31:22.279188 INFO [simplewallet] Height 56, transaction 42a7f593c5aee63e5350f3f2146c0fd29aecb09b2b824e9a7d5052b153e7c978, received 0.010000
+2018-Apr-03 17:31:32.280802 INFO [simplewallet] Height 57, transaction 6d05492e421b941bf9db9ee83cf8942cadcdedfa7e784d8c34675590aa8f52e4, received 0.010000
+2018-Apr-03 17:31:32.280942 INFO [simplewallet] Height 58, transaction cfce919a12ff9e4a942edb8683a5f1ef5abcd790b0bd4b6cc23169fe7e69eb38, received 0.010000
+2018-Apr-03 17:31:33.335321 INFO [simplewallet] Height 57, transaction 6d05492e421b941bf9db9ee83cf8942cadcdedfa7e784d8c34675590aa8f52e4, received 0.010000
+2018-Apr-03 17:31:33.335612 INFO [simplewallet] Height 58, transaction cfce919a12ff9e4a942edb8683a5f1ef5abcd790b0bd4b6cc23169fe7e69eb38, received 0.010000
+2018-Apr-03 17:31:33.335749 INFO [simplewallet] Height 59, transaction 9e078ecb67952789f7c1465119a5fafb7781f8f03d41e8acc74a521357fbce29, received 0.010000
+2018-Apr-03 17:31:37.280613 INFO [simplewallet] Height 59, transaction 9e078ecb67952789f7c1465119a5fafb7781f8f03d41e8acc74a521357fbce29, received 0.010000
+2018-Apr-03 17:31:42.281231 INFO [simplewallet] Height 60, transaction f3c8296f24ed5f19b35d8671884787fd4afc1b449bd1be0d6a45441de3442400, received 0.010000
+2018-Apr-03 17:31:43.334755 INFO [simplewallet] Height 60, transaction f3c8296f24ed5f19b35d8671884787fd4afc1b449bd1be0d6a45441de3442400, received 0.010000
+2018-Apr-03 17:31:52.282711 INFO [simplewallet] Height 61, transaction 2d9a6a96c34c51d1758789ab059c39c17940eae3146dec71f66cffff4766d6dd, received 0.010000
+2018-Apr-03 17:31:53.336177 INFO [simplewallet] Height 61, transaction 2d9a6a96c34c51d1758789ab059c39c17940eae3146dec71f66cffff4766d6dd, received 0.010000
+2018-Apr-03 17:32:52.290900 INFO [simplewallet] Height 62, transaction e0e04eb768fba5ad84147e208d29919fd445df47f699f7104ba8385394292eee, received 0.010000
+2018-Apr-03 17:32:52.291040 INFO [simplewallet] Height 63, transaction 9402455836a8b684a26e8a83fb14d2a9ac3c49de2bd7cbd831377f60eb3806c7, received 0.010000
+2018-Apr-03 17:32:53.343707 INFO [simplewallet] Height 62, transaction e0e04eb768fba5ad84147e208d29919fd445df47f699f7104ba8385394292eee, received 0.010000
+2018-Apr-03 17:32:53.343960 INFO [simplewallet] Height 63, transaction 9402455836a8b684a26e8a83fb14d2a9ac3c49de2bd7cbd831377f60eb3806c7, received 0.010000
+2018-Apr-03 17:33:17.292644 INFO [simplewallet] Height 64, transaction 911ae3ce3ab32566c370fb38386f8ecc26ba8bf7eff8a066adf3f901278dbd08, received 0.010000
+2018-Apr-03 17:33:18.346063 INFO [simplewallet] Height 64, transaction 911ae3ce3ab32566c370fb38386f8ecc26ba8bf7eff8a066adf3f901278dbd08, received 0.010000
+2018-Apr-03 17:33:28.346965 INFO [simplewallet] Height 65, transaction 82808b6248af7240f071a2aa04799ff062bd0e0e6ad6afe0641da6332d10b598, received 0.010000
+2018-Apr-03 17:33:32.294170 INFO [simplewallet] Height 65, transaction 82808b6248af7240f071a2aa04799ff062bd0e0e6ad6afe0641da6332d10b598, received 0.010000
+2018-Apr-03 17:33:37.294700 INFO [simplewallet] Height 66, transaction ad11a3bd8cce440e864d3cf7f5943db8c6939955776be5fe66bb849bbc23751e, received 0.010000
+2018-Apr-03 17:33:38.348255 INFO [simplewallet] Height 66, transaction ad11a3bd8cce440e864d3cf7f5943db8c6939955776be5fe66bb849bbc23751e, received 0.010000
+2018-Apr-03 17:33:42.601693 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.400000
+2018-Apr-03 17:33:47.296423 INFO [simplewallet] Height 67, transaction 316edd8adb8cd138efdf0f2fd96f4c45353721c0dcacc3e259b7050b28903b26, received 0.010000
+2018-Apr-03 17:33:48.349451 INFO [simplewallet] Height 67, transaction 316edd8adb8cd138efdf0f2fd96f4c45353721c0dcacc3e259b7050b28903b26, received 0.010000
+2018-Apr-03 17:33:57.297509 INFO [simplewallet] Height 68, transaction 5da79847f72429e62d339998f8eeb36a565b714fcaee03965c76fd1d0a3ec612, received 0.010000
+2018-Apr-03 17:33:58.350512 INFO [simplewallet] Height 68, transaction 5da79847f72429e62d339998f8eeb36a565b714fcaee03965c76fd1d0a3ec612, received 0.010000
+2018-Apr-03 17:34:17.300020 INFO [simplewallet] Height 69, transaction 67501f63e7911ac0591cf1e62b08ee3d22c23e7837c89b8328c8f0578749f298, received 0.010000
+2018-Apr-03 17:34:18.352987 INFO [simplewallet] Height 69, transaction 67501f63e7911ac0591cf1e62b08ee3d22c23e7837c89b8328c8f0578749f298, received 0.010000
+2018-Apr-03 17:34:22.301234 INFO [simplewallet] Height 70, transaction 2181c6196909351d8f072aedb86960129623f2ffa85949e6e79dab134687a782, received 0.010000
+2018-Apr-03 17:34:22.301385 INFO [simplewallet] Height 71, transaction eb8efac219b0403c25290af666ff4db35e4b2e84022c1533c11c145a4cb649ac, received 0.010000
+2018-Apr-03 17:34:23.355009 INFO [simplewallet] Height 70, transaction 2181c6196909351d8f072aedb86960129623f2ffa85949e6e79dab134687a782, received 0.010000
+2018-Apr-03 17:34:23.355123 INFO [simplewallet] Height 71, transaction eb8efac219b0403c25290af666ff4db35e4b2e84022c1533c11c145a4cb649ac, received 0.010000
+2018-Apr-03 17:34:23.355219 INFO [simplewallet] Height 72, transaction af242d409cf5ccc54eb31cd20bafb96426b26c6994fa074066d48ea6b4e8f214, received 0.010000
+2018-Apr-03 17:34:27.301057 INFO [simplewallet] Height 72, transaction af242d409cf5ccc54eb31cd20bafb96426b26c6994fa074066d48ea6b4e8f214, received 0.010000
+2018-Apr-03 17:35:12.306951 INFO [simplewallet] Height 73, transaction 8e4b6e1472c6ce9344142107732182a8885cc23490bd47d7e95042edcfbb7d83, received 0.010000
+2018-Apr-03 17:35:13.359279 INFO [simplewallet] Height 73, transaction 8e4b6e1472c6ce9344142107732182a8885cc23490bd47d7e95042edcfbb7d83, received 0.010000
+2018-Apr-03 17:35:37.310773 INFO [simplewallet] Height 74, transaction b2199f83d3a9c3ce7081d08f098527f957854f97b160fa93d8c66aa2ba50bdea, received 0.010000
+2018-Apr-03 17:35:38.362341 INFO [simplewallet] Height 74, transaction b2199f83d3a9c3ce7081d08f098527f957854f97b160fa93d8c66aa2ba50bdea, received 0.010000
+2018-Apr-03 17:35:57.313047 INFO [simplewallet] Height 75, transaction 6ba781b6c18e4a5d6e09196be08d35b5bdf0d5d5f6287268159af53553b381da, received 0.010000
+2018-Apr-03 17:35:58.364957 INFO [simplewallet] Height 75, transaction 6ba781b6c18e4a5d6e09196be08d35b5bdf0d5d5f6287268159af53553b381da, received 0.010000
+2018-Apr-03 17:36:53.370877 INFO [simplewallet] Height 76, transaction db46d1d3e8d30e9d3d08350123f19f685c959f032be41a97d2a55802ab2a9bf0, received 0.010000
+2018-Apr-03 17:36:57.320634 INFO [simplewallet] Height 76, transaction db46d1d3e8d30e9d3d08350123f19f685c959f032be41a97d2a55802ab2a9bf0, received 0.010000
+2018-Apr-03 17:37:17.323413 INFO [simplewallet] Height 77, transaction e79dcf4b1003da0249e2842dc4ae8451257330244a18fe91663a0044047234c4, received 0.010000
+2018-Apr-03 17:37:18.373700 INFO [simplewallet] Height 77, transaction e79dcf4b1003da0249e2842dc4ae8451257330244a18fe91663a0044047234c4, received 0.010000
+2018-Apr-03 17:37:43.376789 INFO [simplewallet] Height 78, transaction da70477e724ad25fdc307fc4f35986e6582042a53ca30e26b1cbf3ef01a45877, received 0.010000
+2018-Apr-03 17:37:47.326398 INFO [simplewallet] Height 78, transaction da70477e724ad25fdc307fc4f35986e6582042a53ca30e26b1cbf3ef01a45877, received 0.010000
+2018-Apr-03 17:38:27.331621 INFO [simplewallet] Height 79, transaction 6659159083af83587cede97ce22def70dfd8118f736cf804c59d1bddb783523d, received 0.010000
+2018-Apr-03 17:38:27.331750 INFO [simplewallet] Height 80, transaction 9a759017abc89417121eb1e7dcb85364e1bc8f5c49eaab5db029785e19a069cc, received 0.010000
+2018-Apr-03 17:38:28.382518 INFO [simplewallet] Height 79, transaction 6659159083af83587cede97ce22def70dfd8118f736cf804c59d1bddb783523d, received 0.010000
+2018-Apr-03 17:38:28.382658 INFO [simplewallet] Height 80, transaction 9a759017abc89417121eb1e7dcb85364e1bc8f5c49eaab5db029785e19a069cc, received 0.010000
+2018-Apr-03 17:38:37.332422 INFO [simplewallet] Height 81, transaction 28215f0e68d1d21a7ab9426820d41f81c7a8649a8f9d0939bdc414b5ffd4f32d, received 0.010000
+2018-Apr-03 17:38:38.382984 INFO [simplewallet] Height 81, transaction 28215f0e68d1d21a7ab9426820d41f81c7a8649a8f9d0939bdc414b5ffd4f32d, received 0.010000
+2018-Apr-03 17:39:22.338000 INFO [simplewallet] Height 82, transaction b6ab8127e9867bd9af070a8a39e44f2f016bf2b6e64b67ff817d81fb3046c4f1, received 0.010000
+2018-Apr-03 17:39:23.388028 INFO [simplewallet] Height 82, transaction b6ab8127e9867bd9af070a8a39e44f2f016bf2b6e64b67ff817d81fb3046c4f1, received 0.010000
+2018-Apr-03 17:39:57.342023 INFO [simplewallet] Height 83, transaction fbff090a10628eca6cf25dda10c904b97111d9e44033fe93fcc03cce7f770cf3, received 0.010000
+2018-Apr-03 17:39:58.392078 INFO [simplewallet] Height 83, transaction fbff090a10628eca6cf25dda10c904b97111d9e44033fe93fcc03cce7f770cf3, received 0.010000
+2018-Apr-03 17:41:02.349760 INFO [simplewallet] Height 84, transaction bb4db9e7e6cba6fdaf9e87430115fd048abb14cea6c87b35eaa4fa1d17ed8f01, received 0.010000
+2018-Apr-03 17:41:03.399291 INFO [simplewallet] Height 84, transaction bb4db9e7e6cba6fdaf9e87430115fd048abb14cea6c87b35eaa4fa1d17ed8f01, received 0.010000
+2018-Apr-03 17:41:18.401169 INFO [simplewallet] Height 85, transaction d569754a56973cdd8c5f7743f05b86f2d9395e0abfb45e11ba5569698fda4c77, received 0.010000
+2018-Apr-03 17:41:22.351916 INFO [simplewallet] Height 85, transaction d569754a56973cdd8c5f7743f05b86f2d9395e0abfb45e11ba5569698fda4c77, received 0.010000
+2018-Apr-03 17:41:47.354570 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:41:48.403778 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:51:17.726761 ERROR [simplewallet] Error: invalid arguments. Please use start_mining [<number_of_threads>], <number_of_threads> should be from 1 to 2
+2018-Apr-03 17:51:39.964399 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:51:50.005023 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-03 17:51:56.260481 INFO [simplewallet] intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 17:52:01.300465 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-03 17:52:32.469776 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:52:39.932973 INFO [simplewallet] Wallet closed
+2018-Apr-03 17:52:47.392314 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 17:52:47.392854 INFO [simplewallet] Loading wallet...
+2018-Apr-03 17:52:47.396590 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:52:47.424470 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 17:52:47.424597 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 17:53:04.221126 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 17:53:12.630481 INFO [simplewallet] Wallet closed
+2018-Apr-03 18:18:23.888426 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 18:18:23.889044 INFO [simplewallet] Loading wallet...
+2018-Apr-03 18:18:23.889920 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:18:23.923139 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 18:18:23.923246 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 18:18:32.975809 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-03 18:18:38.829157 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-03 18:19:27.400120 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:24:42.396730 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:24:56.727911 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:25:03.917654 INFO [simplewallet] Wallet closed
+2018-Apr-03 18:27:16.916196 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 18:27:16.916936 INFO [simplewallet] Loading wallet...
+2018-Apr-03 18:27:16.918108 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:27:16.948470 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 18:27:16.948657 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 18:27:32.210417 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:27:50.299104 INFO [simplewallet] Wallet closed
+2018-Apr-03 18:28:20.539809 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 18:28:20.540349 INFO [simplewallet] Loading wallet...
+2018-Apr-03 18:28:20.541159 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:28:20.570193 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 18:28:20.570430 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 18:28:40.628409 INFO [simplewallet] Wallet closed
+2018-Apr-03 18:38:54.440358 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-03 18:38:54.441198 INFO [simplewallet] Loading wallet...
+2018-Apr-03 18:38:54.442991 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-03 18:38:54.480769 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-03 18:38:54.480907 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-03 18:39:00.501475 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-03 18:39:18.976983 INFO [simplewallet] Wallet closed
+2018-Apr-04 13:34:29.190088 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 13:34:29.190750 INFO [simplewallet] Loading wallet...
+2018-Apr-04 13:34:29.192158 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-04 13:34:29.234876 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-04 13:34:29.235033 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-04 13:34:34.993147 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-04 13:34:54.227365 INFO [simplewallet] Wallet closed
+2018-Apr-04 15:38:29.025893 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 15:38:29.030084 INFO [simplewallet] Loading wallet...
+2018-Apr-04 15:38:29.031560 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-04 15:38:29.072671 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-04 15:38:29.072768 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-04 15:46:28.340351 INFO [simplewallet] Wallet closed
+2018-Apr-04 15:46:32.245930 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 15:46:32.246519 INFO [simplewallet] Loading wallet...
+2018-Apr-04 15:46:32.247543 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-04 15:46:32.278693 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-04 15:46:32.278825 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-04 15:46:55.526610 INFO [simplewallet] Wallet closed
+2018-Apr-04 16:01:56.100542 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:02:03.975944 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-04 16:02:29.446116 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:02:29.446937 INFO [simplewallet] Loading wallet...
+2018-Apr-04 16:02:29.450154 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-04 16:02:29.481484 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-04 16:02:29.481775 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-04 16:03:05.474823 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-04 16:03:19.216312 INFO [simplewallet] Wallet closed
+2018-Apr-04 16:04:30.597285 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:04:30.598560 INFO [simplewallet] Loading wallet...
+2018-Apr-04 16:04:30.602790 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-04 16:04:30.644509 INFO [simplewallet] Opened wallet: intuvVDQtqY7GRrcMEAjtRJ99F4NsVmEkdRKYsmofyWFHXyCqWjUQ4pjor7BmCVf3w4tagA9aTsxeRboLM7PsUGM8vvMXCfyriG
+2018-Apr-04 16:04:30.644826 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-04 16:04:40.179237 INFO [simplewallet] Wallet closed
+2018-Apr-04 16:08:34.907011 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:08:40.911035 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-04 16:09:35.455806 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:10:32.786675 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-04 16:10:36.676776 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:10:41.637248 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-04 16:11:42.431924 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-04 16:11:48.336185 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 09:48:25.923341 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 09:48:25.924212 INFO [simplewallet] Loading wallet...
+2018-Apr-06 09:48:25.924852 ERROR [simplewallet] Wallet initialize failed: can't load wallet file 'intuwallet.bin.wallet', check password
+2018-Apr-06 09:49:19.415325 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 09:49:19.415716 INFO [simplewallet] Loading wallet...
+2018-Apr-06 09:49:19.416557 ERROR [simplewallet] Wallet initialize failed: can't load wallet file 'intuwallet.bin.wallet', check password
+2018-Apr-06 09:50:02.430649 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 09:50:02.431168 INFO [simplewallet] Loading wallet...
+2018-Apr-06 09:50:02.462286 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 09:50:02.462424 INFO [simplewallet] Loaded ok
+2018-Apr-06 09:50:02.462492 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 09:55:09.453192 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 09:55:09.453978 INFO [simplewallet] Loading wallet...
+2018-Apr-06 09:55:09.484098 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 09:55:09.484201 INFO [simplewallet] Loaded ok
+2018-Apr-06 09:55:09.484249 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 09:58:46.294155 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 09:58:46.297885 INFO [simplewallet] Loading wallet...
+2018-Apr-06 09:58:46.330955 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 09:58:46.331111 INFO [simplewallet] Loaded ok
+2018-Apr-06 09:58:46.331172 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 10:02:30.722037 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 10:02:30.726005 INFO [simplewallet] Loading wallet...
+2018-Apr-06 10:02:30.754445 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 10:02:30.754532 INFO [simplewallet] Loaded ok
+2018-Apr-06 10:02:30.754572 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 10:10:17.624305 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 10:10:17.625016 INFO [simplewallet] Loading wallet...
+2018-Apr-06 10:10:17.655430 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 10:10:17.655762 INFO [simplewallet] Loaded ok
+2018-Apr-06 10:10:17.655834 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 11:02:12.458719 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 11:02:12.459425 INFO [simplewallet] Loading wallet...
+2018-Apr-06 11:02:12.491190 INFO [simplewallet] available balance: 0.000000, locked amount: 50201467440.590000
+2018-Apr-06 11:02:12.491493 INFO [simplewallet] Loaded ok
+2018-Apr-06 11:02:12.491724 INFO [simplewallet] Starting wallet rpc server
+2018-Apr-06 11:29:41.284991 INFO [simplewallet] Stopped wallet rpc server
+2018-Apr-06 11:29:41.285173 INFO [simplewallet] Storing wallet...
+2018-Apr-06 11:31:13.548825 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 11:31:13.553371 INFO [simplewallet] Loading wallet...
+2018-Apr-06 11:31:13.554391 ERROR [simplewallet] Wallet initialize failed: can't load wallet file 'ntuwallet.bin.wallet', check password
+2018-Apr-06 11:35:10.370044 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 11:35:10.370726 INFO [simplewallet] Loading wallet...
+2018-Apr-06 11:35:10.371282 ERROR [simplewallet] Wallet initialize failed: can't load wallet file 'ntuwallet.bin.wallet', check password
+2018-Apr-06 11:41:34.067771 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 11:41:34.068823 INFO [simplewallet] Loading wallet...
+2018-Apr-06 11:41:34.069273 ERROR [simplewallet] Wallet initialize failed: can't load wallet file 'ntuwallet.bin.wallet', check password
+2018-Apr-06 13:11:50.190556 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:11:50.270040 INFO [simplewallet] Generated new wallet: intuvTZpnAiC2HnHNZBof4ifMrniiYMrt2unqHgpjiCW8ri5n2iVXgFHjYpANVnP6m6vSmrsDfHUiQPe5qUSnKErWcgu1bGCvuK
+2018-Apr-06 13:11:50.270040 INFO [simplewallet] view key: d719da1edf17a8b77847b3734950e583c8595246a2fb5ec25779e07f8e1c6b09
+2018-Apr-06 13:11:50.270390 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-06 13:15:43.106608 INFO [simplewallet] available balance: 0.000000, locked amount: 0.000000
+2018-Apr-06 13:28:46.730651 INFO [simplewallet] Wallet data saved
+2018-Apr-06 13:30:06.734578 ERROR [simplewallet] Error: Couldn't resolve alias: Ipv4Resolver::resolve, getaddrinfo failed, result=-2, Unknown error -2, alias: ntuvTZpnAiC2HnHNZBof4ifMrniiYMrt2unqHgpjiCW8ri5n2iVXgFHjYpANVnP6m6vSmrsDfHUiQPe5qUSnKErWcgu1bGCvuK
+2018-Apr-06 13:31:11.002016 INFO [simplewallet] intuvTZpnAiC2HnHNZBof4ifMrniiYMrt2unqHgpjiCW8ri5n2iVXgFHjYpANVnP6m6vSmrsDfHUiQPe5qUSnKErWcgu1bGCvuK
+2018-Apr-06 13:31:20.059181 INFO [simplewallet] available balance: 0.000000, locked amount: 0.000000
+2018-Apr-06 13:31:25.380825 INFO [simplewallet] Wallet closed
+2018-Apr-06 13:31:33.362534 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:31:33.362860 ERROR [simplewallet] Error: Helder.wallet already exists
+2018-Apr-06 13:31:33.362918 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 13:32:24.857522 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:32:31.040334 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 13:32:45.608137 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:32:50.978038 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 13:34:18.362294 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:34:18.363118 ERROR [simplewallet] Error: failed to load wallet: wallet file 'Helder.bin.wallet' is not found
+2018-Apr-06 13:34:18.363200 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 13:34:18.364788 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-06 13:34:52.860078 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:34:52.860972 ERROR [simplewallet] Error: failed to load wallet: wallet file 'Helder.bin.wallet' is not found
+2018-Apr-06 13:34:52.861089 ERROR [simplewallet] Failed to initialize wallet
+2018-Apr-06 13:34:52.862168 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Apr-06 13:35:51.878090 INFO [simplewallet] intucoin wallet v0.1.3.mushi1.0.3()
+2018-Apr-06 13:35:51.954313 INFO [simplewallet] Generated new wallet: intuvStk8kkPG8eAYZoBQW4fUVhuLN3AmBuT7a8ERrVmUXnRK1F7EnEGqsQFGbR9cGYq2wBMepaiz2wBd8d45HTqgYeeiqRMa1H
+2018-Apr-06 13:35:51.954313 INFO [simplewallet] view key: c5ad11280b9e9d7ac0ebfc37af22b44cded1667255232e7324971d1dc313c600
+2018-Apr-06 13:35:51.954446 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-06 13:36:53.288553 INFO [simplewallet] Wallet data saved
+2018-Apr-06 13:37:01.893404 INFO [simplewallet] Unconfirmed transaction 154d8985d7b0fb5caed97b44dec1d9f227f6e05e518614e97458a57f1c7f575f, received 0.001000
+2018-Apr-06 13:39:18.654378 INFO [simplewallet] available balance: 0.000000, locked amount: 0.001000
+2018-Apr-06 13:39:50.233313 INFO [simplewallet]         amount       	                              tx id
+2018-Apr-06 13:39:50.233488 INFO [simplewallet]              0.001000	154d8985d7b0fb5caed97b44dec1d9f227f6e05e518614e97458a57f1c7f575f
+2018-Apr-06 13:40:09.676278 INFO [simplewallet] available balance: 0.000000, locked amount: 0.001000
+2018-Apr-06 13:43:21.775436 INFO [simplewallet] available balance: 0.000000, locked amount: 0.001000
+2018-Apr-06 13:57:26.378985 INFO [simplewallet] available balance: 0.000000, locked amount: 0.001000
+2018-Apr-06 14:39:34.261928 INFO [simplewallet] available balance: 0.000000, locked amount: 0.001000
+2018-Apr-06 14:39:40.799341 INFO [simplewallet] Wallet closed
