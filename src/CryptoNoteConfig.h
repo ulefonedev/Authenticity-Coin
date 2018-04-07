@@ -111,6 +111,7 @@ namespace parameters {
 
 const char     CRYPTONOTE_NAME[]                             = "intucoin";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101128f6e2f5ff1cc0d95bf80839501c07d79fcb80726f3ca8cdc094b0e2d89dfd3";
+
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1515479625;
 
@@ -161,6 +162,7 @@ __attribute__((unused))
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
     //{ 1, "cbce7c37dbad257d29a3bfa93ec1f7b92434b9b806d40d01cb04d0ad2e451735" },
+      { 1, "0000000000000000000000000000000000000000000000000000000000000000" },
 };
 
 } // CryptoNote
