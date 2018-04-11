@@ -34,7 +34,7 @@ namespace parameters {
   const uint32_t KILL_HEIGHT                                   = 0;
   const uint64_t TAIL_EMISSION_REWARD                          = 0;
   const size_t CRYPTONOTE_COIN_VERSION                         = 0;
-  const bool ZAWY_DIFFICULTY_V2                          	     = 0;
+  const bool ZAWY_DIFFICULTY_V2                          	   = 0;
   const unsigned EMISSION_SPEED_FACTOR                         = 18;
   const uint64_t GENESIS_BLOCK_REWARD                          = 10000;
   static_assert(EMISSION_SPEED_FACTOR <= 8 * sizeof(uint64_t), "Bad EMISSION_SPEED_FACTOR");
@@ -53,7 +53,7 @@ namespace parameters {
   const uint64_t MAX_TRANSACTION_SIZE_LIMIT                    = CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE * 125 / 100 - CRYPTONOTE_COINBASE_BLOB_RESERVED_SIZE;
   const uint64_t DEFAULT_FEE                                   = MINIMUM_FEE;
 
-  const uint64_t DIFFICULTY_TARGET                             = 120; // seconds
+  const uint64_t DIFFICULTY_TARGET                             = 320; // seconds
   const uint64_t EXPECTED_NUMBER_OF_BLOCKS_PER_DAY             = 24 * 60 * 60 / DIFFICULTY_TARGET;
   const size_t   DIFFICULTY_WINDOW                             = 50; // blocks
   const size_t   DIFFICULTY_CUT                                = 5;  // timestamps to cut after sorting
@@ -94,17 +94,17 @@ namespace parameters {
   static_assert(0 < UPGRADE_VOTING_THRESHOLD && UPGRADE_VOTING_THRESHOLD <= 100, "Bad UPGRADE_VOTING_THRESHOLD");
   static_assert(UPGRADE_VOTING_WINDOW > 1, "Bad UPGRADE_VOTING_WINDOW");
 
-  const char     CRYPTONOTE_BLOCKS_FILENAME[]                  = "blocks.dat";
-  const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "blockindexes.dat";
-  const char     CRYPTONOTE_BLOCKSCACHE_FILENAME[]             = "blockscache.dat";
-  const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "poolstate.bin";
-  const char     P2P_NET_DATA_FILENAME[]                       = "p2pstate.bin";
-  const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "blockchainindices.dat";
-  const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json";
+  const char     CRYPTONOTE_BLOCKS_FILENAME[]                  = "intu-blocks.dat";
+  const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "intu-blockindexes.dat";
+  const char     CRYPTONOTE_BLOCKSCACHE_FILENAME[]             = "intu-blockscache.dat";
+  const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "intu-poolstate.bin";
+  const char     P2P_NET_DATA_FILENAME[]                       = "intu-p2pstate.bin";
+  const char     CRYPTONOTE_BLOCKCHAIN_INDICES_FILENAME[]      = "intu-blockchainindices.dat";
+  const char     MINER_CONFIG_FILE_NAME[]                      = "intu-miner_conf.json";
   } // parameters
 
   const uint64_t START_BLOCK_REWARD                            = (UINT64_C(10) * parameters::POINT);
-  const uint64_t ICO_BLOCK_REWARD	                             = (UINT64_C(50201467440) * parameters::COIN); // 50.2 billion ICO
+  const uint64_t ICO_BLOCK_REWARD	                           = (UINT64_C(50201467440) * parameters::COIN); // 50.2 billion ICO
   const uint64_t MAX_BLOCK_REWARD                              = (UINT64_C(2) * parameters::COIN);
   const uint64_t REWARD_INCREASE_INTERVAL                      = (UINT64_C(2640));
 
@@ -164,7 +164,6 @@ __attribute__((unused))
 // {<block height>, "<block hash>"},
 const std::initializer_list<CheckpointData> CHECKPOINTS = {
     //{ 1, "cbce7c37dbad257d29a3bfa93ec1f7b92434b9b806d40d01cb04d0ad2e451735" },
-  
 };
 
 } // CryptoNote
